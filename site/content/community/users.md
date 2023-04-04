@@ -18,6 +18,8 @@ considering their efforts before starting your own!
 | [mjml-go][19]    | Compile [MJML][20] to HTML directly in Go                                                            |
 | [wazergo][29]    | Generics library for type-safe and high performance wazero host modules                              |
 | [Wetware][28]    | Simple, secure & scalable clusters                                                                   |
+| [go-pikchr][30]  | Pikchr wrapped for Go using WebAssembly. No cgo required.                                            |
+| [go-graphviz][31]| Graphviz wrapped for Go using WebAssembly. No cgo required.                                          |
 
 ### General purpose plugins
 
@@ -120,3 +122,7 @@ experience.
 [28]: https://github.com/wetware/ww
 
 [29]: https://github.com/stealthrocket/wazergo
+
+[30]: https://github.com/rigtorp/go-pikchr
+
+[31]: https://github.com/rigtorp/go-graphviz
